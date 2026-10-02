@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} · {{ site.title }}</title>
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+<header><a href="{{ '/' | relative_url }}">{{ site.editeur }}</a>{% if page.app %} · <a href="{{ page.app_url | relative_url }}">{{ page.app }}</a>{% endif %}{% if page.autre_langue %}<a class="lang" href="{{ page.autre_langue | relative_url }}">{{ page.autre_langue_nom }}</a>{% endif %}</header>
+<main>
+{{ content }}
+</main>
+<footer>{{ site.editeur }} · <a href="mailto:{{ site.contact }}">{{ site.contact }}</a></footer>
+</body>
+</html>
