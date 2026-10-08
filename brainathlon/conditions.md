@@ -10,13 +10,13 @@ autre_langue_nom: English
 
 # Conditions d'utilisation de Brainathlon
 
-<p class="maj">Dernière mise à jour : 2 octobre 2026</p>
+<p class="maj">Dernière mise à jour : 8 octobre 2026</p>
 
-Ces conditions s'appliquent au jeu **Brainathlon**, édité par **{{ site.editeur }}** ({{ site.pays }}, [{{ site.contact }}](mailto:{{ site.contact }})). En installant le jeu, tu les acceptes.
+Ces conditions s'appliquent au jeu **Brainathlon**, édité par **{{ site.editeur }}** ({{ site.pays }} ; responsable : {{ site.responsable }} ; [{{ site.contact }}](mailto:{{ site.contact }})). En installant le jeu, tu les acceptes.
 
 ## 1. Le jeu
 
-Brainathlon est gratuit. Pendant les 7 premiers jours, il est sans publicité. Ensuite, il affiche quelques publicités courtes aux pauses, jamais pendant une partie. Le jeu fonctionne entièrement hors connexion ; sans connexion, aucune publicité n'est affichée.
+Brainathlon est gratuit. Pendant les 3 premiers jours, il est sans publicité. Ensuite, il affiche quelques publicités courtes aux pauses, jamais pendant une partie. Le jeu fonctionne entièrement hors connexion ; sans connexion, aucune publicité n'est affichée.
 
 ## 2. Achat « sans publicité »
 
@@ -28,11 +28,11 @@ Brainathlon est gratuit. Pendant les 7 premiers jours, il est sans publicité. E
 
 ## 3. Utilisation
 
-Le jeu est réservé à un usage personnel et non commercial. Il est interdit de le copier, de le modifier, de le décompiler ou de le redistribuer, sauf dans les cas permis par la loi. Les textes, images, sons, niveaux et le code du jeu restent la propriété de l'éditeur ou de leurs auteurs (les polices et éléments sous licence libre restent soumis à leur licence).
+Le jeu est réservé aux personnes de 13 ans et plus. Il est réservé à un usage personnel et non commercial. Il est interdit de le copier, de le modifier, de le décompiler ou de le redistribuer, sauf dans les cas permis par la loi. Les textes, images, sons, niveaux et le code du jeu restent la propriété de l'éditeur ou de leurs auteurs (les polices et éléments sous licence libre restent soumis à leur licence).
 
 ## 4. Jeu à plusieurs
 
-Les parties à plusieurs se jouent entre téléphones sur le même réseau Wi-Fi. Choisis un nom de joueur respectueux : il est visible des autres joueurs.
+Les parties à plusieurs se jouent entre téléphones sur le même réseau Wi-Fi. Choisis un nom de joueur respectueux (ni insulte, ni nom d'une autre personne, ni information personnelle) : il est visible des autres joueurs. Les échanges entre téléphones ne sont pas chiffrés : joue sur un réseau de confiance.
 
 ## 5. Disponibilité et garantie
 
