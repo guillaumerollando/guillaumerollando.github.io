@@ -51,7 +51,6 @@ Certains de ces prestataires peuvent traiter des données hors de l'Union europ�
 - **Appareil photo, micro :** prendre une photo, envoyer un message vocal, scanner un QR code.
 - **Photos et vidéos :** choisir une image à envoyer ; enregistrer un média reçu dans ta galerie.
 - **Notifications :** être prévenu d'un message, d'une invitation ou d'une annonce.
-- **Biométrie / verrouillage :** protéger l'accès à tes clés si tu l'actives.
 
 Aucune de ces autorisations n'est utilisée en arrière-plan à d'autres fins. Kipo n'accède ni à tes contacts, ni à ta position, ni à tes SMS.
 
@@ -72,7 +71,7 @@ Aucune de ces autorisations n'est utilisée en arrière-plan à d'autres fins. K
 | Messages et médias envoyés | 7 jours maximum sur nos serveurs |
 | Événements | Supprimés 7 jours après leur fin ; les « Souvenirs » (photos) restent seulement sur ton téléphone |
 | Compte et profil | Jusqu'à la suppression du compte |
-| Journaux techniques | 30 jours environ |
+| Journaux techniques | Selon l'hébergeur (quelques semaines au plus) |
 | Signalements | Le temps nécessaire à la sécurité de la plateforme |
 
 ## 8. Supprimer ton compte
