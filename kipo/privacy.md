@@ -51,7 +51,6 @@ Some of these providers may process data outside the European Union, under contr
 - **Camera, microphone:** take a photo, send a voice message, scan a QR code.
 - **Photos and videos:** pick an image to send; save a received media to your gallery.
 - **Notifications:** be told about a message, an invitation or an announcement.
-- **Biometrics / screen lock:** protect access to your keys if you turn it on.
 
 None of these permissions is used in the background for other purposes. Kipo does not access your contacts, location or SMS.
 
@@ -72,7 +71,7 @@ None of these permissions is used in the background for other purposes. Kipo doe
 | Messages and media sent | 7 days at most on our servers |
 | Events | Deleted 7 days after they end; "Souvenirs" (photos) stay only on your phone |
 | Account and profile | Until you delete the account |
-| Technical logs | About 30 days |
+| Technical logs | Set by the host (a few weeks at most) |
 | Reports | As long as needed for platform safety |
 
 ## 8. Deleting your account
