@@ -10,13 +10,13 @@ autre_langue_nom: Français
 
 # Brainathlon Terms of Use
 
-<p class="maj">Last updated: October 2, 2026</p>
+<p class="maj">Last updated: October 8, 2026</p>
 
-These terms apply to the game **Brainathlon**, published by **{{ site.editeur }}** ({{ site.pays }}, [{{ site.contact }}](mailto:{{ site.contact }})). By installing the game, you accept them.
+These terms apply to the game **Brainathlon**, published by **{{ site.editeur }}** ({{ site.pays }}; contact person: {{ site.responsable }}; [{{ site.contact }}](mailto:{{ site.contact }})). By installing the game, you accept them.
 
 ## 1. The game
 
-Brainathlon is free. It has no ads for the first 7 days. After that, it shows a few short ads at natural breaks, never during a game. The game works fully offline; when offline, no ads are shown.
+Brainathlon is free. It has no ads for the first 3 days. After that, it shows a few short ads at natural breaks, never during a game. The game works fully offline; when offline, no ads are shown.
 
 ## 2. "No ads" purchase
 
@@ -28,11 +28,11 @@ Brainathlon is free. It has no ads for the first 7 days. After that, it shows a 
 
 ## 3. Use
 
-The game is for personal, non-commercial use. You may not copy, modify, decompile or redistribute it, except where the law allows. The game's texts, images, sounds, levels and code remain the property of the publisher or their authors (fonts and other openly licensed elements remain under their own license).
+The game is for people aged 13 and over. It is for personal, non-commercial use. You may not copy, modify, decompile or redistribute it, except where the law allows. The game's texts, images, sounds, levels and code remain the property of the publisher or their authors (fonts and other openly licensed elements remain under their own license).
 
 ## 4. Multiplayer
 
-Multiplayer games are played between phones on the same Wi-Fi network. Please choose a respectful player name: other players can see it.
+Multiplayer games are played between phones on the same Wi-Fi network. Please choose a respectful player name (no insults, no other person's name, no personal information): other players can see it. Exchanges between phones are not encrypted: play on a network you trust.
 
 ## 5. Availability and warranty
 

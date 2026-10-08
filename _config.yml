@@ -1,9 +1,10 @@
 # Site public : pages légales et présentation des jeux et applis de Guillaume.
 # Publié par GitHub Pages (dépôt guillaumerollando.github.io). Une appli = un dossier.
-title: "Guillaume Rollando — jeux et applis"
+title: "Rollando Studio — jeux et applis"
 lang: fr
-editeur: "Guillaume Rollando"          # nom affiché comme éditeur (statut de commerçant Play Console)
-contact: "À COMPLÉTER@exemple.com"     # adresse de contact pro (à créer)
+editeur: "Rollando Studio"             # nom d'éditeur affiché (Play Console, pages, pied de page)
+responsable: "Guillaume Rolland"       # nom légal tel qu enregistré dans la Play Console (Rollando = nom de style du studio)
+contact: "guija35@gmail.com"           # adresse de contact du compte Play Console, confirmée par Guillaume le 2026-10-09
 pays: "France"
 markdown: kramdown
 exclude: [AGENTS.md, CLAUDE.md, README.md]
