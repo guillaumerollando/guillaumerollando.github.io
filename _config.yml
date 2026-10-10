@@ -4,7 +4,7 @@ title: "Rollando Studio — jeux et applis"
 lang: fr
 editeur: "Rollando Studio"             # nom d'éditeur affiché (Play Console, pages, pied de page)
 responsable: "Guillaume Rolland"       # nom légal tel qu enregistré dans la Play Console (Rollando = nom de style du studio)
-contact: "guija35@gmail.com"           # adresse de contact du compte Play Console, confirmée par Guillaume le 2026-10-09
+contact: "rollandostudio@gmail.com"      # adresse pro de Rollando Studio (décision de Guillaume, 2026-10-10) ; guija35 = compte perso, ne plus l utiliser
 pays: "France"
 markdown: kramdown
 exclude: [AGENTS.md, CLAUDE.md, README.md]
