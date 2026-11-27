@@ -12,7 +12,7 @@ autre_langue_nom: English
 
 <p class="maj">Dernière mise à jour : 9 octobre 2026</p>
 
-Kipo est une application Android et iOS pour organiser des événements et discuter en groupe, publiée par **{{ site.editeur }}** ({{ site.pays }}). Le responsable du traitement est **{{ site.responsable }}**, joignable à **[{{ site.contact }}](mailto:{{ site.contact }})**.
+Kipo est une application Android et iOS pour organiser des événements et discuter en groupe, publiée par **{{ site.editeur }}** ({{ site.pays }}). Le responsable du traitement est **{{ site.editeur }}**, joignable à **[{{ site.contact }}](mailto:{{ site.contact }})**.
 
 **En bref :** il faut un compte (e-mail, Google ou Apple). Tes messages sont chiffrés de bout en bout : nous ne pouvons pas les lire. Ils sont effacés de nos serveurs au bout de 7 jours. Pas de publicité, pas d'analyse de ton usage, pas de vente de données. Tu peux supprimer ton compte à tout moment depuis l'appli ou sur [kipo-app.fr/delete-account](https://kipo-app.fr/delete-account).
 

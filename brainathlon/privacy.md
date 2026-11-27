@@ -12,7 +12,7 @@ autre_langue_nom: Français
 
 <p class="maj">Last updated: October 8, 2026</p>
 
-Brainathlon is a puzzle game for Android published by **{{ site.editeur }}** ({{ site.pays }}). The data controller is **{{ site.responsable }}**, who can be reached at **[{{ site.contact }}](mailto:{{ site.contact }})**. This page explains what data the game uses, why, and how you can control it.
+Brainathlon is a puzzle game for Android published by **{{ site.editeur }}** ({{ site.pays }}). The data controller is **{{ site.editeur }}**, who can be reached at **[{{ site.contact }}](mailto:{{ site.contact }})**. This page explains what data the game uses, why, and how you can control it.
 
 **In short:** no account, no sign-up, no server. Your progress stays on your phone. After the first 3 free days, the game shows a few ads provided by Google AdMob, which uses data from your device according to your consent choice. You can remove ads with a one-time purchase.
 

@@ -12,7 +12,7 @@ autre_langue_nom: Français
 
 <p class="maj">Last updated: October 9, 2026</p>
 
-These terms apply to the **Universal LED Strip Remote** app, published by **{{ site.editeur }}** ({{ site.pays }}; controller: {{ site.responsable }}; [{{ site.contact }}](mailto:{{ site.contact }})). By installing the app, you accept them.
+These terms apply to the **Universal LED Strip Remote** app, published by **{{ site.editeur }}** ({{ site.pays }}; [{{ site.contact }}](mailto:{{ site.contact }})). By installing the app, you accept them.
 
 ## 1. The app
 

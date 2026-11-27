@@ -12,7 +12,7 @@ autre_langue_nom: English
 
 <p class="maj">Dernière mise à jour : 9 octobre 2026</p>
 
-Jimmy's Blackout est un jeu de cartes pour Android édité par **{{ site.editeur }}** ({{ site.pays }}). Le responsable du traitement des données est **{{ site.responsable }}**, joignable à l'adresse **[{{ site.contact }}](mailto:{{ site.contact }})**. Cette page explique quelles données le jeu utilise, pourquoi, et comment les contrôler.
+Jimmy's Blackout est un jeu de cartes pour Android édité par **{{ site.editeur }}** ({{ site.pays }}). Le responsable du traitement des données est **{{ site.editeur }}**, joignable à l'adresse **[{{ site.contact }}](mailto:{{ site.contact }})**. Cette page explique quelles données le jeu utilise, pourquoi, et comment les contrôler.
 
 **En résumé :** pas de compte, pas d'inscription, pas de serveur. Ta progression reste sur ton téléphone. Le jeu affiche une courte publicité fournie par Google AdMob au début d'une partie, qui utilise des données de ton appareil selon ton choix de consentement. Tu peux retirer la publicité par un achat unique.
 

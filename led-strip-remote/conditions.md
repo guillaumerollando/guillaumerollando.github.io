@@ -12,7 +12,7 @@ autre_langue_nom: English
 
 <p class="maj">Dernière mise à jour : 9 octobre 2026</p>
 
-Ces conditions s'appliquent à l'appli **Universal LED Strip Remote** (« Télécommande Ruban LED »), éditée par **{{ site.editeur }}** ({{ site.pays }} ; responsable : {{ site.responsable }} ; [{{ site.contact }}](mailto:{{ site.contact }})). En installant l'appli, tu les acceptes.
+Ces conditions s'appliquent à l'appli **Universal LED Strip Remote** (« Télécommande Ruban LED »), éditée par **{{ site.editeur }}** ({{ site.pays }} ; [{{ site.contact }}](mailto:{{ site.contact }})). En installant l'appli, tu les acceptes.
 
 ## 1. L'appli
 

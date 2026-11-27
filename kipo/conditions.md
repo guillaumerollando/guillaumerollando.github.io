@@ -14,7 +14,7 @@ autre_langue_nom: English
 
 ## 1. L'application
 
-Kipo est une application gratuite, publiée par **{{ site.editeur }}** ({{ site.responsable }}, {{ site.pays }}), pour organiser des événements et discuter en groupe. En créant un compte, tu acceptes ces conditions.
+Kipo est une application gratuite, publiée par **{{ site.editeur }}** ({{ site.pays }}), pour organiser des événements et discuter en groupe. En créant un compte, tu acceptes ces conditions.
 
 ## 2. Ton compte
 

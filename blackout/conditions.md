@@ -12,7 +12,7 @@ autre_langue_nom: English
 
 <p class="maj">Dernière mise à jour : 9 octobre 2026</p>
 
-Ces conditions s'appliquent au jeu **Jimmy's Blackout**, édité par **{{ site.editeur }}** ({{ site.pays }} ; responsable : {{ site.responsable }} ; [{{ site.contact }}](mailto:{{ site.contact }})). En installant le jeu, tu les acceptes.
+Ces conditions s'appliquent au jeu **Jimmy's Blackout**, édité par **{{ site.editeur }}** ({{ site.pays }} ; [{{ site.contact }}](mailto:{{ site.contact }})). En installant le jeu, tu les acceptes.
 
 ## 1. Le jeu
 

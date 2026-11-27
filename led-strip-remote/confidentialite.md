@@ -12,7 +12,7 @@ autre_langue_nom: English
 
 <p class="maj">Dernière mise à jour : 9 octobre 2026</p>
 
-Universal LED Strip Remote (« Télécommande Ruban LED » en français) est une appli Android pour piloter des rubans LED, éditée par **{{ site.editeur }}** ({{ site.pays }}). Le responsable du traitement des données est **{{ site.responsable }}**, joignable à l'adresse **[{{ site.contact }}](mailto:{{ site.contact }})**.
+Universal LED Strip Remote (« Télécommande Ruban LED » en français) est une appli Android pour piloter des rubans LED, éditée par **{{ site.editeur }}** ({{ site.pays }}). Le responsable du traitement des données est **{{ site.editeur }}**, joignable à l'adresse **[{{ site.contact }}](mailto:{{ site.contact }})**.
 
 **En résumé :** pas de compte, pas de pub, pas de statistiques, pas de serveur. Tout ce que tu enregistres reste sur ton téléphone. L'appli ne parle qu'à tes rubans : en Bluetooth, sur ton Wi-Fi local ou en infrarouge.
 

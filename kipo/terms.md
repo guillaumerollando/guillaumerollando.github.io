@@ -14,7 +14,7 @@ autre_langue_nom: Français
 
 ## 1. The app
 
-Kipo is a free app published by **{{ site.editeur }}** ({{ site.responsable }}, {{ site.pays }}) to organise events and chat in groups. By creating an account you accept these terms.
+Kipo is a free app published by **{{ site.editeur }}** ({{ site.pays }}) to organise events and chat in groups. By creating an account you accept these terms.
 
 ## 2. Your account
 

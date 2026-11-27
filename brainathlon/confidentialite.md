@@ -12,7 +12,7 @@ autre_langue_nom: English
 
 <p class="maj">Dernière mise à jour : 8 octobre 2026</p>
 
-Brainathlon est un jeu de casse-têtes pour Android édité par **{{ site.editeur }}** ({{ site.pays }}). Le responsable du traitement des données est **{{ site.responsable }}**, joignable à l'adresse **[{{ site.contact }}](mailto:{{ site.contact }})**. Cette page explique quelles données le jeu utilise, pourquoi, et comment les contrôler.
+Brainathlon est un jeu de casse-têtes pour Android édité par **{{ site.editeur }}** ({{ site.pays }}). Le responsable du traitement des données est **{{ site.editeur }}**, joignable à l'adresse **[{{ site.contact }}](mailto:{{ site.contact }})**. Cette page explique quelles données le jeu utilise, pourquoi, et comment les contrôler.
 
 **En résumé :** pas de compte, pas d'inscription, pas de serveur. Ta progression reste sur ton téléphone. Après les 3 jours offerts, le jeu affiche un peu de publicité fournie par Google AdMob, qui utilise des données de ton appareil selon ton choix de consentement. Tu peux retirer la publicité par un achat unique.
 

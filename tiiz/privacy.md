@@ -12,7 +12,7 @@ autre_langue_nom: Français
 
 <p class="maj">Last updated: November 24, 2026</p>
 
-Tiiz is a party game for Android published by **{{ site.editeur }}** ({{ site.pays }}). The data controller is **{{ site.responsable }}**, reachable at **[{{ site.contact }}](mailto:{{ site.contact }})**. This page explains what data the game uses, why, and how you can control it.
+Tiiz is a party game for Android published by **{{ site.editeur }}** ({{ site.pays }}). The data controller is **{{ site.editeur }}**, reachable at **[{{ site.contact }}](mailto:{{ site.contact }})**. This page explains what data the game uses, why, and how you can control it.
 
 **In short:** no account, no sign-up, no server. Names and settings stay on your phone; multiplayer only goes through your local Wi-Fi. The game shows a short ad provided by Google AdMob when a game starts, which uses data from your device depending on your consent choice. You can remove ads with a one-time purchase.
 

@@ -12,7 +12,7 @@ autre_langue_nom: Français
 
 <p class="maj">Last updated: October 9, 2026</p>
 
-Universal LED Strip Remote is an Android app to control LED strips, published by **{{ site.editeur }}** ({{ site.pays }}). The data controller is **{{ site.responsable }}**, reachable at **[{{ site.contact }}](mailto:{{ site.contact }})**.
+Universal LED Strip Remote is an Android app to control LED strips, published by **{{ site.editeur }}** ({{ site.pays }}). The data controller is **{{ site.editeur }}**, reachable at **[{{ site.contact }}](mailto:{{ site.contact }})**.
 
 **In short:** no account, no ads, no analytics, no server. Everything you save stays on your phone. The app only talks to your strips: over Bluetooth, on your local Wi-Fi or by infrared.
 

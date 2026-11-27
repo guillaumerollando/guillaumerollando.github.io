@@ -12,7 +12,7 @@ autre_langue_nom: English
 
 <p class="maj">Dernière mise à jour : 24 novembre 2026</p>
 
-Tiiz est un jeu de soirée pour Android édité par **{{ site.editeur }}** ({{ site.pays }}). Le responsable du traitement des données est **{{ site.responsable }}**, joignable à l'adresse **[{{ site.contact }}](mailto:{{ site.contact }})**. Cette page explique quelles données le jeu utilise, pourquoi, et comment les contrôler.
+Tiiz est un jeu de soirée pour Android édité par **{{ site.editeur }}** ({{ site.pays }}). Le responsable du traitement des données est **{{ site.editeur }}**, joignable à l'adresse **[{{ site.contact }}](mailto:{{ site.contact }})**. Cette page explique quelles données le jeu utilise, pourquoi, et comment les contrôler.
 
 **En résumé :** pas de compte, pas d'inscription, pas de serveur. Les prénoms et réglages restent sur ton téléphone ; le jeu à plusieurs passe seulement par ton Wi-Fi local. Le jeu affiche une courte publicité fournie par Google AdMob quand une partie commence, qui utilise des données de ton appareil selon ton choix de consentement. Tu peux retirer la publicité par un achat unique.
 

@@ -12,7 +12,7 @@ autre_langue_nom: Français
 
 <p class="maj">Last updated: October 9, 2026</p>
 
-Kipo is an Android and iOS app to organise events and chat in groups, published by **{{ site.editeur }}** ({{ site.pays }}). The data controller is **{{ site.responsable }}**, who can be reached at **[{{ site.contact }}](mailto:{{ site.contact }})**.
+Kipo is an Android and iOS app to organise events and chat in groups, published by **{{ site.editeur }}** ({{ site.pays }}). The data controller is **{{ site.editeur }}**, who can be reached at **[{{ site.contact }}](mailto:{{ site.contact }})**.
 
 **In short:** you need an account (email, Google or Apple). Your messages are end-to-end encrypted: we cannot read them. They are erased from our servers after 7 days. No ads, no usage analytics, no selling of data. You can delete your account at any time from the app or at [kipo-app.fr/delete-account](https://kipo-app.fr/delete-account).
 

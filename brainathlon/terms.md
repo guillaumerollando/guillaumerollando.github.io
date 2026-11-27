@@ -12,7 +12,7 @@ autre_langue_nom: Français
 
 <p class="maj">Last updated: October 8, 2026</p>
 
-These terms apply to the game **Brainathlon**, published by **{{ site.editeur }}** ({{ site.pays }}; contact person: {{ site.responsable }}; [{{ site.contact }}](mailto:{{ site.contact }})). By installing the game, you accept them.
+These terms apply to the game **Brainathlon**, published by **{{ site.editeur }}** ({{ site.pays }}; [{{ site.contact }}](mailto:{{ site.contact }})). By installing the game, you accept them.
 
 ## 1. The game
 

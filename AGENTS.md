@@ -7,7 +7,7 @@ chaque `git push` sur `main` : https://guillaumerollando.github.io/
 ⚠️ Dépôt **public** : rien de privé ici (pas de code de jeu, pas de secret, pas de note interne).
 
 ## Organisation
-- `_config.yml` : éditeur, adresse de contact, pays — **une seule source**, reprise par toutes les pages (`{{ site.contact }}`, `{{ site.responsable }}`)
+- `_config.yml` : éditeur, adresse de contact, pays — **une seule source**, reprise par toutes les pages (`{{ site.contact }}`, `{{ site.editeur }}`) — jamais le nom de Guillaume : tout est au nom de Rollando Studio (2026-11-27)
 - `_layouts/default.html` + `assets/style.css` : la mise en page commune (clair / sombre, lisible sur téléphone)
 - `index.md` : la liste des jeux et applis
 - `<appli>/` : un dossier par appli : `index.md` (présentation), `confidentialite.md` + `privacy.md`, `conditions.md` + `terms.md`
